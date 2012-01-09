@@ -1,0 +1,9 @@
+h1. Aufteilung in verschiedene Repositories
+
+Gemeinschaft existiert in den Versionen 3.x, 4.x und 5.x. Die Repositories für Gemeinschaft 3.x und 4.x unterliegen der GPL und sind hier veröffentlicht:
+* 'http://github.com/amooma/GS3':http://github.com/amooma/GS3
+* 'http://github.com/amooma/GS4':http://github.com/amooma/GS4
+
+h1. Welche Version ist die richtige?
+
+Bitte lesen Sie hierzu 'http://www.amooma.de/gemeinschaft':http://www.amooma.de/gemeinschaft
